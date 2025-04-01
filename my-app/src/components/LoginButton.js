@@ -1,7 +1,7 @@
 import React from "react";
 
 const onNaverLogin = () => {
-    window.location.href = "http://localhost:8085/oauth2/authorization/naver";
+    window.location.href = "http://localhost:8080/oauth2/authorization/kakao";
 };
 
 function LoginButton() {
